@@ -10193,8 +10193,14 @@ venue {
 
 
 a.author, author {
-/*  color: #000000;*/
+  color: #2874A6;
   font-family:monospace;
+}
+
+a.me, me {
+  color: #7428A6;
+  font-family:monospace;
+  font-weight:1000;
 }
 
 ul {
